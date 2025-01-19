@@ -1,0 +1,7 @@
+
+streamlit==1.26.0
+pandas==1.5.3
+requests==2.31.0
+matplotlib==3.7.2
+statsmodels==0.14.0
+sqlite3==3.41.2  # Note: sqlite3 is part of Python's standard library and does not require installation.
