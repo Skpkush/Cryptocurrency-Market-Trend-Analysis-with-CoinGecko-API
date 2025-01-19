@@ -6,7 +6,7 @@ The **Cryptocurrency Market Trend Analysis** is a Python-based project that pull
 
 The project processes and organizes the data into a structured format using Pandas and provides valuable insights such as the **Top 10 Gainers** and **Top 10 Losers** in the past 24 hours based on price change percentage. Additionally, the data is saved into an SQLite database for persistent storage and future analysis.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bac0993e-7018-4e42-9d30-b41f3933b5ff)
 
 
 Users can easily interact with the data using the app’s simple Streamlit interface, which presents the cryptocurrency data in an organized and user-friendly table format. This app also includes real-time data updates and can handle large volumes of market data seamlessly.
